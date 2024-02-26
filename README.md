@@ -62,7 +62,7 @@ Email: izabela.sawicka91@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/nowakowskaizabela/
 
-GitHub: https://github.com/SawickaIzabela/ @SawickaIzabela
+GitHub: https://github.com/SawickaIzabela/ 
 
 Feel free to connect with me for collaboration, inquiries, or any discussions related to technical writing or documentation. I look forward to connecting with you!
 
